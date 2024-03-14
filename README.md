@@ -375,7 +375,7 @@ You'll learn:
 
 This book is intended for software developers and system programmers interested in Rust as a C/C++ alternative. This book is also available to students interested in learning systems programming using Rust. The book assumes you have prior knowledge of basic programming concepts or any other programming language.
 
-### [RUST LIFE TIMES](https://tfpk.github.io/lifetimekata/index.html](https://tfpk.github.io/lifetimekata/index.html)
+### [RUST LIFE TIMES](https://tfpk.github.io/lifetimekata/index.html)
 
 A set of exercises which you can use to improve your understanding of lifetimes in Rust. While many tasks involve writing compiling code, some will also involve creating specific errors.
 
